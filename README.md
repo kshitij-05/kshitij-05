@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Kshitij 
-#### Quantum Chemistry software development
+## Quantum Chemistry software development
 I'm Kshitij, and I write Electronic Structure Theory programs. I really enjoy coding mathematical functions and optimizing them for best performance. I also like modelling Neural Networks using Tensorflow. Most of my projects are related to Quantum Chemistry.
 
-Skills: Python/ Cython / Fortran / C++/ Tensorflow
+## Skills: 
+Python / Cython / Fortran / C++ / Tensorflow
 
 - 🔭 I’m currently working on Bagh (First Electronic Structure Theory Package from India) 
 - 🌱 I’m currently learning Machine Learning and Data Science 
