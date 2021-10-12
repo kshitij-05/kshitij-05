@@ -13,4 +13,4 @@ Python / Cython / Fortran / C++ / Tensorflow
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij-05)](https://github.com/anuraghazra/github-readme-stats)
 
-<img scr = "<div class="tenor-gif-embed" data-postid="15685313" data-share-method="host" data-aspect-ratio="1.36752" data-width="100%"><a href="https://tenor.com/view/the-mandalorian-baby-yoda-cute-gif-15685313">The Mandalorian Baby Yoda GIF</a>from <a href="https://tenor.com/search/the+mandalorian-gifs">The Mandalorian GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="256"/>
+<img scr = "https://tenor.com/view/the-mandalorian-baby-yoda-cute-gif-15685313" width="256"/>
