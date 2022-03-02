@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kshitij 😊
+# Hi there 👋, I'm Kshitij 😊
 ## Quantum Chemistry software development
 I'm Kshitij, and I write Electronic Structure Theory programs. I really enjoy coding mathematical functions and optimizing them for best performance. I also like modelling Neural Networks using Tensorflow. Most of my projects are related to Quantum Chemistry.
 
